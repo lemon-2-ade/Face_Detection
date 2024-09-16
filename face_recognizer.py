@@ -20,3 +20,4 @@ for faces in face_locations:
                            outline="#2fc21f", width=4)
 
 pil_picture.show()
+pil_picture.save("detected_faces.jpg")
