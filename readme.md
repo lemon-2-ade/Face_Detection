@@ -17,7 +17,7 @@ pip install face_recognition pillow
 
 ## Prerequisites
 
-- **Python 3.x**
+- **Python 3**
 - **CMake** (for compiling `face_recognition`)
 - **dlib** (used by `face_recognition`)
 
