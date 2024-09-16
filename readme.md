@@ -13,3 +13,19 @@ To run this project, you need to install the required Python libraries. You can 
 
 ```bash
 pip install face_recognition pillow
+
+## Prerequisites
+
+- **Python 3.x**
+- **CMake** (for compiling `face_recognition`)
+- **dlib** (used by `face_recognition`)
+
+## Usage
+
+1. Clone or download this repository.
+2. Place your image file (e.g., `image.jpeg`) in the project directory.
+3. Run the script to detect faces and save the output image:
+
+    ```bash
+    python face_detection.py
+    ```
