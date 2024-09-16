@@ -16,13 +16,11 @@ pip install face_recognition pillow
 ```
 
 ## Prerequisites
-
 - **Python 3**
 - **CMake** (for compiling `face_recognition`)
 - **dlib** (used by `face_recognition`)
 
 ## Usage
-
 - Clone or download this repository.
 - Place your image file (e.g., `image.jpeg`) in the project directory.
 - Run the script to detect faces and save the output image:
