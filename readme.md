@@ -23,9 +23,9 @@ pip install face_recognition pillow
 
 ## Usage
 
-1. Clone or download this repository.
-2. Place your image file (e.g., `image.jpeg`) in the project directory.
-3. Run the script to detect faces and save the output image:
+- Clone or download this repository.
+- Place your image file (e.g., `image.jpeg`) in the project directory.
+- Run the script to detect faces and save the output image:
 
     ```bash
     python face_detection.py
